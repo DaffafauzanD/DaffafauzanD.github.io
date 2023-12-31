@@ -178,3 +178,14 @@ body {
     border-style: solid;
     margin-bottom: 20px;
 }
+
+.modal-body{
+    text-align: center;
+}
+
+.modal-body a{
+    color: #2e2e2e;
+    text-decoration: none;
+    color: #F3EDC8;
+    background-color: rgb(12, 103, 184);
+}
